@@ -17,3 +17,6 @@ Projeto para cadastro de projetos de ONG's
 
 ![Login](https://user-images.githubusercontent.com/5454128/77959790-96046300-72ad-11ea-99e1-dde399f8a654.PNG)
 
+![Profile](https://user-images.githubusercontent.com/5454128/77972102-d7edd300-72c6-11ea-8245-1d9a560824ac.PNG)
+
+![Register](https://user-images.githubusercontent.com/5454128/77972127-e89e4900-72c6-11ea-827f-455b71f8f833.PNG)
