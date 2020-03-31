@@ -8,9 +8,9 @@ Projeto para cadastro de projetos de ONG's
 
 ## Tecnologias Utilizadas
 
-- [X] Node.js
-- [X] React
-- [ ] React Native
+- [X] Back-end: Node.js
+- [X] Front-end: React
+- [ ] Mobile: React Native
 
 
 ## Telas
