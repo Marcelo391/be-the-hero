@@ -7,8 +7,6 @@ import './style.css';
 import logoImg from '../../assets/logo.svg';
 import api from '../../services/api';
 
-
-
 export default function NewIncident(){
     const history = useHistory();
 
